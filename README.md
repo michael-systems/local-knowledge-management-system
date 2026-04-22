@@ -58,19 +58,9 @@ See `/docs` for:
 
 ### Screenshots
 
-![Onboarding](docs/onboarding-library-setup.jpg)
-
-![Dashboard](docs/dashboard-active-library.jpg)
-
-![Documents](docs/documents-view.jpg)
-
-![Notes](docs/notes-view.jpg)
-
 ![Search and Jump](docs/search-and-document-jump.jpg)
 
 ![Themes and Links](docs/themes-and-links.jpg)
-
-![Tasks](docs/tasks-view.jpg)
 
 ![Backups and Restore](docs/backups-and-restore.jpg)
 
