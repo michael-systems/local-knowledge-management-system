@@ -64,6 +64,14 @@ See `/docs` for:
 
 ![Backups and Restore](docs/backups-and-restore.jpg)
 
+## Technical Proof
+
+A small public-safe technical layer is included in `/technical`:
+- `data-model.md` — core entities and relationships
+- `sqlite-schema.sql` — simplified schema overview
+
+This repository is published as a technical case study, so only representative and safe internal artifacts are exposed publicly.
+
 ## Status
 
 Working desktop application, used in practice as a structured local knowledge workspace.
